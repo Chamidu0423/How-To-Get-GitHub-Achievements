@@ -164,9 +164,14 @@ graph LR
 
 ---
 
-## 🎨 Customization Features
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="32" height="32">
+  Ｃｕｓｔｏｍｉｚａｔｉｏｎ Ｆｅａｔｕｒｅｓ
+</picture>
+<br>
+◉ Ｓｋｉｎ Ｔｏｎｅ Ｖａｒｉａｔｉｏｎｓ
 
-### 🖐️ **Skin Tone Variations**
 
 Some achievements adapt to your [emoji skin tone preference](https://github.com/settings/appearance):
 
@@ -187,8 +192,11 @@ Some achievements adapt to your [emoji skin tone preference](https://github.com/
 </div>
 
 ---
-
-## 💎 **Highlights & Special Badges**
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32">
+  Ｈｉｇｈｌｉｇｈｔｓ ＆ Ｓｐｅｃｉａｌ Ｂａｄｇｅｓ
+</picture>
 
 <div align="center">
 
@@ -245,5 +253,6 @@ _Start contributing, collaborating, and building amazing things!_
 <sub>Made with ❤️ by the GitHub community • [Contribute to this project](https://github.com/github/achievements)</sub>
 
 </div>
+
 
 
