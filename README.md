@@ -40,7 +40,11 @@ graph LR
 
 ---
 
-## 🏆 Achievement Categories
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f947/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f947/512.gif" alt="🥇" width="32" height="32">
+  Ａｃｈｉｅｖｅｍｅｎｔ Ｃａｔｅｇｏｒｉｅｓ
+</picture>
 
 ### 🌟 **Core Achievements**
 
@@ -55,7 +59,11 @@ graph LR
 
 </div>
 
-### ⚡ **Special Achievements**
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="32" height="32">
+  Ｓｐｅｃｉａｌ Ａｃｈｉｅｖｅｍｅｎｔｓ
+</picture>
 
 <div align="center">
 
@@ -67,7 +75,11 @@ graph LR
 
 </div>
 
-### 🔮 **Mystery Achievements**
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.gif" alt="🔮" width="32" height="32">
+  Ｍｙｓｔｅｒｙ Ａｃｈｉｅｖｅｍｅｎｔｓ
+</picture>
 
 <div align="center">
 
@@ -229,3 +241,4 @@ _Start contributing, collaborating, and building amazing things!_
 <sub>Made with ❤️ by the GitHub community • [Contribute to this project](https://github.com/github/achievements)</sub>
 
 </div>
+
