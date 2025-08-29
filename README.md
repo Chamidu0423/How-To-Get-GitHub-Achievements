@@ -170,7 +170,7 @@ graph LR
   Ｃｕｓｔｏｍｉｚａｔｉｏｎ Ｆｅａｔｕｒｅｓ
 </picture>
 <br>
-◉ Ｓｋｉｎ Ｔｏｎｅ Ｖａｒｉａｔｉｏｎｓ
+Skin Tone Variations
 
 
 Some achievements adapt to your [emoji skin tone preference](https://github.com/settings/appearance):
@@ -212,7 +212,11 @@ Some achievements adapt to your [emoji skin tone preference](https://github.com/
 
 ---
 
-## 🏛️ **Legacy Collection**
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa99/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa99/512.gif" alt="🪙" width="32" height="32">
+  Ｌｅｇａｃｙ Ｃｏｌｌｅｃｔｉｏｎ
+</picture>
 
 <div align="center">
 
@@ -227,32 +231,21 @@ Some achievements adapt to your [emoji skin tone preference](https://github.com/
 
 ---
 
-## 📚 Resources & Links
-
-<div align="center">
-
-[![Official Docs](https://img.shields.io/badge/📖_Official_Documentation-4285f4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#displaying-badges-on-your-profile)
-[![Profile Settings](https://img.shields.io/badge/⚙️_Profile_Settings-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/settings)
-[![Appearance Settings](https://img.shields.io/badge/🎨_Appearance_Settings-ff6b6b?style=for-the-badge&logo=palette&logoColor=white)](https://github.com/settings/appearance)
-
-</div>
-
----
-
 <div align="center">
 
 ### 🎮 **Start Your Achievement Journey**
 
-<img src="/Media/Badges/Pull-Shark/GIF/PullShark_Animated.gif" width="200" alt="Animated Pull Shark">
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="200" alt="Animated Pull Shark">
 
 **Ready to unlock your first achievement?**  
 _Start contributing, collaborating, and building amazing things!_
 
 ---
 
-<sub>Made with ❤️ by the GitHub community • [Contribute to this project](https://github.com/github/achievements)</sub>
+<sub>Made with ❤️ by the [Chamidu0423](https://github.com/Chamidu0423)</sub>
 
 </div>
+
 
 
 
