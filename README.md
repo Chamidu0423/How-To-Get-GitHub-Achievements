@@ -92,7 +92,11 @@ graph LR
 
 ---
 
-## 🎨 **Tier Visualizations**
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa84/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fa84/512.gif" alt="🪄" width="32" height="32">
+  Ｔｉｅｒ Ｖｉｓｕａｌｉｚａｔｉｏｎｓ
+</picture>
 
 <div align="center">
 
@@ -241,4 +245,5 @@ _Start contributing, collaborating, and building amazing things!_
 <sub>Made with ❤️ by the GitHub community • [Contribute to this project](https://github.com/github/achievements)</sub>
 
 </div>
+
 
